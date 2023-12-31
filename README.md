@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh K M</h1>
-<h3 align="center">Software Engineer, New Graduate</h3>
+<h3 align="center">Software Engineer, 2023 Graduate</h3>
 
 - 🌱 I’m currently learning **DevOps, AWS**
 
@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/adarsh-k-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-k-m" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
