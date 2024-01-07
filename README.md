@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh K M</h1>
-<h3 align="center">Software Engineer, 2023 Graduate</h3>
+<h3 align="center">Aspiring Software Engineer, 2023 Graduate</h3>
 
 - 🌱 I’m currently learning **DevOps, AWS**
 
