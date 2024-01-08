@@ -2,7 +2,7 @@
 <h3 align="center">💻 Aspiring Software Engineer | 🎓 2023 Information Science and Engineering</h3><br>
 
 📍 Based in Mangalore, Karnataka <br><br>
-👨🏻‍🎓 Alva's Institute of Engineering and Technology, Moodbidri, Karnataka <br><br>
+👨🏻‍🎓 **Alva's Institute of Engineering and Technology**, Moodbidri, Karnataka <br><br>
 📧 Reach me at: <b>adarshkm2001@gmail.com</b>
 
 --------------
