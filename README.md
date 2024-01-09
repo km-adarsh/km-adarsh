@@ -28,7 +28,7 @@
   
 </p><br>
 
-<h5 align="left">Currently learning: DevOps:</h5>
+<h5 align="left">Currently learning: DevOps</h5>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> <b>AWS</b> ||
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/> <b>Bash scripting</b> ||
